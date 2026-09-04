@@ -31,12 +31,12 @@ from ultralytics import YOLO
 #
 # DO NOT SEND YOUR TOKEN TO ANYONE.
 
-TELEGRAM_BOT_TOKEN = "8583847440:AAHFQQKXNOT6SaOJnHVNXhuMMlv0FFJ0UIM"
+TELEGRAM_BOT_TOKEN = "TOKEN"
 
 
 # Put the Chat ID you obtained earlier here.
 
-TELEGRAM_CHAT_ID = "8676102201,"
+TELEGRAM_CHAT_ID = "chat_id"
 
 
 # ============================================================
