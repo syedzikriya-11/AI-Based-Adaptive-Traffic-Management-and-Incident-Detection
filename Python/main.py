@@ -41,8 +41,8 @@ from ultralytics import YOLO
 # TELEGRAM ALERT BOT
 # ============================================================
 
-TELEGRAM_ALERT_BOT_TOKEN = "8749363566:AAG9h_bP977c4dKZc_2xd2K87sXVQI9N1vE"
-TELEGRAM_CHAT_ID = "8676102201"
+TELEGRAM_ALERT_BOT_TOKEN = ""
+TELEGRAM_CHAT_ID = ""
 
 
 # ============================================================
